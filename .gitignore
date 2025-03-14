@@ -1,0 +1,11 @@
+# Ignorera virtuella miljöer
+venv/
+
+# Ignorera bytecode-filer
+__pycache__/
+*.pyc
+
+# Ignorera andra loggfiler eller temporära filer
+*.log
+*.sqlite3
+
